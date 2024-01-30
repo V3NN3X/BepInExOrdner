@@ -23,9 +23,49 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 19 plugins to load
+[Info   :   BepInEx] 22 plugins to load
 [Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [MoreEmotes-Sligili 1.3.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Fnaf Power Outage 1.0.1]
+[Info   :atg.FnafPowerOutage] Starting Fnaf Power Outage
+[Info   :atg.FnafPowerOutage] D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\FnafPowerOutage\toreadormarch
+[Info   :atg.FnafPowerOutage] FnafPowerOutage Mod is loaded
+[Info   :   BepInEx] Loading [MoreCompany 1.7.4]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [LethalExpansion(core) 1.3.15]
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loading...
+[Info   :LethalExpansion(core)] LethalExpansion is not present, all is well!
+[Info   :LethalExpansion(core)] Plugins folder found: D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Mod path is: D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Warning:LethalExpansion(core)] LethalExpansion is Rooting the Plugins folder, this is not recommended. D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Module 'Ether' v0.1.5.0 was loaded in 879ms
+[Info   :LethalExpansion(core)] Water support applied to the HDRenderPipelineAsset.
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loaded.
 [Info   :   BepInEx] Loading [ShipLoot 1.0]
 [Info   :   BepInEx] Loading [LethalLib 0.14.2]
 [Info   : LethalLib] LethalLib loaded!!
@@ -80,33 +120,6 @@ Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Cultu
 System.IO.FileNotFoundException: Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
 File name: 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
 [Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
-[Info   :   BepInEx] Loading [MoreCompany 1.7.4]
-[Info   :MoreCompany] Loading MoreCompany...
-[Info   :MoreCompany] Checking: D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
-[Info   :MoreCompany] Read settings and cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
-[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
-[Info   :MoreCompany] Loading USER COSMETICS...
-[Info   :MoreCompany] Loaded MoreCompany FULLY
 [Info   :   BepInEx] Loading [TooManyEmotes 1.7.19]
 [Info   :TooManyEmotes] BindingConfigs
 [Info   :TooManyEmotes] Cleaning old config entries
@@ -129,6 +142,8 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   :TooManyEmotes] TooManyEmotes loaded
 [Info   :   BepInEx] Loading [LethalLevelLoader 1.0.3]
 [Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :   BepInEx] Loading [Jump Delay Patch 0.0.0.1]
+[Info   :Jump Delay Patch] Plugin JumpDelayPatch is loaded!
 [Error  :   BepInEx] Could not load [MoreEmotes-Sligili 1.3.3] because it has missing dependencies: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
 [Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
 [Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
@@ -169,14 +184,23 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   :   BepInEx] Loading [More Suits 1.4.1]
 [Info   :More Suits] Plugin More Suits is loaded!
 [Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
 [Warning: Unity Log] UnityEngine.InputSystem.InputActionAsset must be instantiated using the ScriptableObject.CreateInstance method instead of new InputActionAsset.
 [Info   :ReservedFlashlightSlot] Initializing hotkeys.
 [Warning: Unity Log] UnityEngine.InputSystem.InputActionAsset must be instantiated using the ScriptableObject.CreateInstance method instead of new InputActionAsset.
 [Info   :ReservedWalkieSlot] Initializing hotkeys.
 [Warning: Unity Log] UnityEngine.InputSystem.InputActionAsset must be instantiated using the ScriptableObject.CreateInstance method instead of new InputActionAsset.
 [Info   : Unity Log] LethalLevelLoader: Finding LethalBundles!
+[Info   :LethalExpansion(core)] Loading scene 'InitSceneLaunchOptions'
+[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
+[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
+[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
 [Info   : Unity Log] Saving changed settings
+[Info   :LethalExpansion(core)] Unloading scene: InitSceneLaunchOptions
 [Info   : Unity Log] subcribing to steam callbacks
+[Info   :LethalExpansion(core)] Loading scene 'InitScene'
+[Info   :LethalExpansion(core)] Registered prefab 'itemshipanimcontainer' from 'LethalExpansion'
+[Info   :LethalExpansion(core)] Registered moon 'ether' from 'Ether'
 [Info   : Unity Log] LethalLevelLoader: Registering Bundle Content!
 [Info   : Unity Log] LethalLevelLoader: Succesfully Restored SpawnEntranceBTrigger NetworkPrefab From EntranceTeleportB To EntranceTeleportB
 [Info   : Unity Log] LethalLevelLoader: Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportA To EntranceTeleportA
@@ -185,6 +209,8 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: SCPDoorBtn (UnityEngine.GameObject)
 [Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: 914_Controls (UnityEngine.GameObject)
 [Info   : Unity Log] LethalLevelLoader: Skipped Registering 139 NetworkObjects As They Were Already Registered.
+[Info   :LethalExpansion(core)] Unloading scene: InitScene
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
 [Info   : Unity Log] Returning week num: 7
 [Info   : Unity Log] week num: 7
 [Info   : Unity Log] host button pressed
@@ -198,7 +224,11 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] are we in a server?: True
 [Info   : Unity Log] Lobby has been created
 [Warning: Unity Log] Validation check success for scene: SampleSceneRelay
+[Info   :LethalExpansion(core)] Unloading scene: MainMenu
 [Info   :LethalThings] Spawning config manager
+[Warning:LethalExpansion(core)] Scrap 'Haridryer' on moon 'ether' could not be found, it has not been registered
+[Info   :LethalExpansion(core)] Added moon 'ether'
+[Info   :LethalExpansion(core)] Finished adding moons and scrap
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
 [Info   : LethalLib] Adding 4 unlockables to unlockables list
@@ -229,7 +259,9 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Dine
 [Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Offense
 [Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Titan
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Ether - (Downtown)
 [Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: SCPFlow
+[Info   :LethalExpansion(core)] Loading scene 'SampleSceneRelay'
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -238,7 +270,7 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] Initialized SkinwalkerNetworkManager
 [Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
 [Info   : LethalLib] Found 25 prefabs to fix
-[Info   : Unity Log] level id: 0
+[Info   : Unity Log] level id: 3
 [Info   : Unity Log] Changing level
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
@@ -262,8 +294,17 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] Item sales percentages #19: 0
 [Info   : Unity Log] Item sales percentages #20: 0
 [Info   : Unity Log] Placing scene object at saved position: File Cabinet
-[Info   : Unity Log] Loading placed object position as: (4.65, 1.10, -11.90)
-[Info   : Unity Log] Saving placed position as: (4.65, 1.10, -11.90)
+[Info   : Unity Log] Loading placed object position as: (6.81, 1.10, -11.81)
+[Info   : Unity Log] Saving placed position as: (6.81, 1.10, -11.81)
+[Info   : Unity Log] Placing scene object at saved position: Bunkbeds
+[Info   : Unity Log] Loading placed object position as: (9.39, 2.03, -11.62)
+[Info   : Unity Log] Saving placed position as: (9.39, 2.03, -11.62)
+[Info   : Unity Log] Loading placed object position as: (5.72, 1.04, -13.66)
+[Info   : Unity Log] Saving placed position as: (5.72, 1.04, -13.66)
+[Info   : Unity Log] Loading placed object position as: (-0.63, 2.74, -12.06)
+[Info   : Unity Log] Saving placed position as: (-0.63, 2.74, -12.06)
+[Info   : Unity Log] Loading placed object position as: (2.45, 2.80, -11.81)
+[Info   : Unity Log] Saving placed position as: (2.45, 2.80, -11.81)
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -288,20 +329,38 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   :TooManyEmotes] Loading 100 emote credits for player: Kysira
 [Info   :TooManyEmotes] Loading 0 emotes for player: VNNX
 [Info   :TooManyEmotes] Loading 100 emote credits for player: VNNX
-[Info   :TooManyEmotes] Loaded 8 unlockable emotes.
-[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
-[Info   :TooManyEmotes] Loaded Seed: 835504654
-[Info   : Unity Log] Ship grabbable items list loaded. Count: 3
+[Info   :TooManyEmotes] Loading 0 emotes for player: TOPG
+[Info   :TooManyEmotes] Loading 100 emote credits for player: TOPG
+[Info   :TooManyEmotes] Loaded 13 unlockable emotes.
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 366
+[Info   :TooManyEmotes] Loaded Seed: 31713101
+[Info   : Unity Log] Ship grabbable items list loaded. Count: 20
 [Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
 [Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
 [Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
-[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 835504654
-[Info   :TooManyEmotes] Rotate new emote value: 0,0986760566470567
-[Info   :TooManyEmotes] Rotate new emote value: 0,902150496794912
-[Info   :TooManyEmotes] Rotate new emote value: 0,994698917490756
-[Info   :TooManyEmotes] Rotate new emote value: 0,997039559761546
-[Info   :TooManyEmotes] Rotate new emote value: 0,951023730892233
-[Info   :TooManyEmotes] Rotate new emote value: 0,130887968526635
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Setting scrap value for item: Remote(Clone): 34
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 31713101
+[Info   :TooManyEmotes] Rotate new emote value: 0,480079975202717
+[Info   :TooManyEmotes] Rotate new emote value: 0,507825299402618
+[Info   :TooManyEmotes] Rotate new emote value: 0,0712745641690095
+[Info   :TooManyEmotes] Rotate new emote value: 0,21037573144323
+[Info   :TooManyEmotes] Rotate new emote value: 0,193167698193885
+[Info   :TooManyEmotes] Rotate new emote value: 0,934297690137428
+[Debug  :LethalExpansion(core)] Hotfix: Removing duplicated routes
+[Debug  :LethalExpansion(core)] 7route duplicated route removed.
+[Debug  :LethalExpansion(core)] Hotfix: 1 duplicated route(s) removed
+[Info   :LethalExpansion(core)] Terminal reset.
+[Info   :LethalExpansion(core)] Added terminal entry for moon 'ether'
+[Info   :LethalExpansion(core)] Finished updating terminal
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
 [Info   : Unity Log] Item sales percentages #2: 0
@@ -323,7 +382,7 @@ System.TypeLoadException: Could not load file or assembly 'LethalCompanyInputUti
 [Info   : Unity Log] Item sales percentages #18: 0
 [Info   : Unity Log] Item sales percentages #19: 0
 [Info   : Unity Log] Item sales percentages #20: 0
-[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] Group credits: 924
 [Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -362,8 +421,15 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
 [Message:LethalThings] (2) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
-[Message:LethalThings] (2) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Message:LethalThings] (3) Hit target (PlacementCollider (UnityEngine.Transform)) wawa!!! Layer: (26)
+[Message:LethalThings] (2) Hit target (WallInsulator (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (2) Hit target (WallInsulator (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (2) Hit target (WallInsulator (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
+[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
 [Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
 [Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
 [Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
@@ -385,10 +451,10 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   :ReservedItemSlotCore-1.8.10] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   :ReservedItemSlotCore-1.8.10] Finished adding 2 Reserved Item slots in the inventory HUD.
-[Info   : Unity Log] Set interminalmenu to true: True
 [Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
 [Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
 [Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   : Unity Log] Set interminalmenu to true: True
 [Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: True
@@ -399,6 +465,7 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] In terminal menu: False
 [Info   :ReservedWalkieSlot] ACTIVATE ITEM
 [Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   : Unity Log] Saved data for item type: Dart - 0
@@ -407,9 +474,16 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Saved data for item type: Dart - 0
 [Info   : Unity Log] Saved data for item type: Dart - 0
 [Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
+[Info   : Unity Log] Saved data for item type: Dart - 0
 [Info   :TooManyEmotes] [SaveManager] Saving game values.
-[Info   :TooManyEmotes] Saving 8 emotes for player: unicornsfirst
-[Info   :TooManyEmotes] Saving 100 emote credits for player: unicornsfirst
+[Info   :TooManyEmotes] Saving 13 emotes for player: unicornsfirst
+[Info   :TooManyEmotes] Saving 366 emote credits for player: unicornsfirst
 [Info   :TooManyEmotes] Saving 0 emotes for player: reyal
 [Info   :TooManyEmotes] Saving 100 emote credits for player: reyal
 [Info   :TooManyEmotes] Saving 0 emotes for player: kekGaming
@@ -418,12 +492,13 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   :TooManyEmotes] Saving 100 emote credits for player: Kysira
 [Info   :TooManyEmotes] Saving 0 emotes for player: VNNX
 [Info   :TooManyEmotes] Saving 100 emote credits for player: VNNX
-[Info   :TooManyEmotes] Saved Seed: 835504654
+[Info   :TooManyEmotes] Saving 0 emotes for player: TOPG
+[Info   :TooManyEmotes] Saving 100 emote credits for player: TOPG
+[Info   :TooManyEmotes] Saved Seed: 31713101
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Info   : Unity Log] Resetting unlockables list!
 [Info   : Unity Log] Scene manager is null
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
 [Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
 [Info   : Unity Log] Terminal disabled, disabling ESC key listener
-[Info   : Unity Log] Returning week num: 7
-[Info   : Unity Log] week num: 7
+[Info   :LethalExpansion(core)] Unloading scene: SampleSceneRelay
